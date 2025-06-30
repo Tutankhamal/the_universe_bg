@@ -206,49 +206,49 @@ Este projeto foi desenvolvido usando **Vanilla JavaScript** puro, sem dependênc
 ## 📖 Literatura e Referências Acadêmicas
 
 ### Livros Técnicos
-1. **"HTML5 Canvas: Native Interactivity and Animation for the Web"**
+**"HTML5 Canvas: Native Interactivity and Animation for the Web"**
    - Autores: Steve Fulton, Jeff Fulton
    - Editora: O'Reilly Media (2013)
    - ISBN: 978-1449334987
    - Aplicação: Técnicas avançadas de Canvas API
 
-2. **"JavaScript: The Definitive Guide"**
+**"JavaScript: The Definitive Guide"**
    - Autor: David Flanagan
    - Editora: O'Reilly Media (7ª edição, 2020)
    - ISBN: 978-1491952023
    - Aplicação: Fundamentos JavaScript avançados
 
-3. **"Real-Time Rendering"**
+**"Real-Time Rendering"**
    - Autores: Tomas Akenine-Möller, Eric Haines, Naty Hoffman
    - Editora: A K Peters/CRC Press (4ª edição, 2018)
    - ISBN: 978-1138627000
    - Aplicação: Técnicas de renderização e otimização
 
 ### Artigos Científicos
-1. **"Efficient Collision Detection for Animation and Robotics"**
+**"Efficient Collision Detection for Animation and Robotics"**
    - Autores: Ming C. Lin, Dinesh Manocha
    - Journal: Journal of Computational Geometry (1995)
    - DOI: 10.1145/218380.218398
    - Aplicação: Algoritmos de detecção de colisão
 
-2. **"A Survey of Real-time Soft Shadows Algorithms"**
+**"A Survey of Real-time Soft Shadows Algorithms"**
    - Autores: Elmar Eisemann, Michael Schwarz
    - Computer Graphics Forum (2007)
    - DOI: 10.1111/j.1467-8659.2007.01012.x
    - Aplicação: Técnicas de sombreamento e brilho
 
 ### Recursos Online e Documentação
-1. **MDN Web Docs - Canvas API**
+**MDN Web Docs - Canvas API**
    - URL: https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API
    - Licença: CC-BY-SA 2.5
    - Aplicação: Referência técnica principal
 
-2. **W3C Canvas 2D Context Specification**
+**W3C Canvas 2D Context Specification**
    - URL: https://www.w3.org/TR/2dcontext/
    - Licença: W3C Software License
    - Aplicação: Especificação oficial dos métodos utilizados
 
-3. **NASA Image and Video Library**
+**NASA Image and Video Library**
    - URL: https://images.nasa.gov/
    - Licença: Domínio Público
    - Aplicação: Referências visuais para ISS
@@ -333,4 +333,7 @@ Para uso comercial, entre em contato com **Tutankhamal Dev** para:
 ---
 
 
-
+**© 2025 Tutankhamal Dev. Todos os direitos reservados.**
+```
+*Esta licença é válida e executável conforme as leis de direitos autorais aplicáveis. Todas as referências científicas e tecnológicas são citadas conforme normas acadêmicas e de atribuição apropriadas.*
+```
