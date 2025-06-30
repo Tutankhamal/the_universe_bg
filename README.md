@@ -1,6 +1,3 @@
-
-
-
 ﻿# 🌌 Dynamic Universe Canvas Background
 ## Documentação Técnica Completa e Detalhada
 ### [PREVIEW](https://the-universe-bg.vercel.app/)
