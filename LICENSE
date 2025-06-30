@@ -2,67 +2,69 @@
 
 **Criado por: Tutankhamal Dev**
 
-Copyright (c) 2024 Tutankhamal Dev. Todos os direitos reservados.
+Copyright (c) 2025 Tutankhamal Dev. Todos os direitos reservados.
 
 ---
 
-## Termos de Licença
+## 📋 Termos de Licença
 
-### USO PERMITIDO
+### ✅ USO PERMITIDO
 
-#### Fins Educacionais e de Estudo
-- Uso livre para aprendizado, pesquisa e fins educacionais
-- Modificação do código para estudos pessoais
-- Uso em projetos acadêmicos e trabalhos escolares
-- Análise e estudo do código fonte
+#### 1. Fins Educacionais e de Estudo
+- ✅ Uso livre para aprendizado, pesquisa e fins educacionais
+- ✅ Modificação do código para estudos pessoais
+- ✅ Uso em projetos acadêmicos e trabalhos escolares
+- ✅ Análise e estudo do código fonte
 
-#### Fins Não Comerciais com Atribuição
-- Uso em projetos pessoais não comerciais
-- Uso em portfólios e demonstrações
-- Uso em projetos open source não comerciais
-- Modificação e distribuição não comercial
+#### 2. Fins Não Comerciais com Atribuição
+- ✅ Uso em projetos pessoais não comerciais
+- ✅ Uso em portfólios e demonstrações
+- ✅ Uso em projetos open source não comerciais
+- ✅ Modificação e distribuição não comercial
 
 **OBRIGATÓRIO para uso não comercial:**
-- Citação do autor: "Tutankhamal Dev"
-- Referência à licença original
-- Link para o projeto original (quando aplicável)
-- Manutenção dos avisos de copyright
+- 📝 Citação do autor: "Tutankhamal Dev"
+- 📝 Referência à licença original
+- 📝 Link para o projeto original (quando aplicável)
+- 📝 Manutenção dos avisos de copyright
 
-### USO NÃO PERMITIDO
+### ❌ USO NÃO PERMITIDO
 
 #### Fins Comerciais
-- Venda do software ou de versões modificadas
-- Uso em produtos comerciais sem autorização expressa
-- Integração em aplicações comerciais
-- Licenciamento para terceiros com fins lucrativos
-- Uso em serviços pagos ou aplicações monetizadas
+- ❌ Venda do software ou de versões modificadas
+- ❌ Uso em produtos comerciais sem autorização expressa
+- ❌ Integração em aplicações comerciais
+- ❌ Licenciamento para terceiros com fins lucrativos
+- ❌ Uso em serviços pagos ou aplicações monetizadas
 
 ---
 
-## Formato de Atribuição Obrigatória
+## 📝 Formato de Atribuição Obrigatória
 
 Para uso não comercial, inclua a seguinte atribuição:
 
-    Dynamic Universe Canvas Background
-    Criado por: Tutankhamal Dev
-    Licença: Uso não comercial com atribuição
-    Projeto original: [URL do repositório]
+```
+Dynamic Universe Canvas Background
+Criado por: Tutankhamal Dev
+Licença: Uso não comercial com atribuição
+Projeto original: [URL do repositório]
 
-    Baseado em conceitos científicos e tecnologias:
-    - Canvas API (W3C Standard)
-    - Física Astronômica (Leis de Kepler, Lei de Wien)
-    - Algoritmos de Otimização de Performance Web
+Baseado em conceitos científicos e tecnologias:
+- Canvas API (W3C Standard)
+- Física Astronômica (Leis de Kepler, Lei de Wien)
+- Algoritmos de Otimização de Performance Web
+```
 
 ---
 
-## Referências Científicas e Acadêmicas
+## 🔬 Referências Científicas e Acadêmicas
 
 ### Física e Astronomia
 
 #### Lei de Wien (1893)
 - **Referência**: Wien, W. (1893). "Über die Energieverteilung im Emissionsspektrum eines schwarzen Körpers"
 - **Aplicação**: Sistema de cores das estrelas baseado em temperatura
-- **Fórmula**: `λmax = b/T` (onde b = 2.897×10⁻³ m·K)
+- **Fórmula**: λmax = b/T (onde b = 2.897×10⁻³ m·K)
 - **Licença**: Domínio Público (>100 anos)
 
 #### Leis de Kepler (1609-1619)
@@ -95,7 +97,7 @@ Para uso não comercial, inclua a seguinte atribuição:
 
 ---
 
-## Tecnologias e Padrões Web
+## 💻 Tecnologias e Padrões Web
 
 ### HTML5 Canvas API
 - **Especificação**: W3C HTML Living Standard
@@ -128,7 +130,7 @@ Para uso não comercial, inclua a seguinte atribuição:
 
 ---
 
-## Algoritmos e Técnicas Computacionais
+## 📚 Algoritmos e Técnicas Computacionais
 
 ### Algoritmos de Detecção de Colisão
 - **Referência**: "Real-Time Collision Detection" por Christer Ericson (2004)
@@ -156,7 +158,7 @@ Para uso não comercial, inclua a seguinte atribuição:
 
 ---
 
-## Recursos Visuais e Assets
+## 🎨 Recursos Visuais e Assets
 
 ### Sprites e Imagens
 
@@ -183,14 +185,14 @@ Para uso não comercial, inclua a seguinte atribuição:
 
 ---
 
-## Bibliotecas e Frameworks
+## 🔧 Bibliotecas e Frameworks
 
 ### Não Utilizadas Intencionalmente
 Este projeto foi desenvolvido usando **Vanilla JavaScript** puro, sem dependências externas, para:
-- Máxima performance
-- Controle total sobre otimizações
-- Valor educacional
-- Compatibilidade ampla
+- 📈 Máxima performance
+- 🔧 Controle total sobre otimizações
+- 📚 Valor educacional
+- 🚀 Compatibilidade ampla
 
 ### Padrões de Design Implementados
 - **Entity-Component System (ECS)**: "Game Programming Patterns" por Robert Nystrom
@@ -201,7 +203,7 @@ Este projeto foi desenvolvido usando **Vanilla JavaScript** puro, sem dependênc
 
 ---
 
-## Literatura e Referências Acadêmicas
+## 📖 Literatura e Referências Acadêmicas
 
 ### Livros Técnicos
 1. **"HTML5 Canvas: Native Interactivity and Animation for the Web"**
@@ -253,7 +255,7 @@ Este projeto foi desenvolvido usando **Vanilla JavaScript** puro, sem dependênc
 
 ---
 
-## Reconhecimentos e Créditos
+## 🌟 Reconhecimentos e Créditos
 
 ### Inspirações Científicas
 - **Carl Sagan**: "Cosmos" - Inspiração para a representação do universo
@@ -272,13 +274,14 @@ Este projeto foi desenvolvido usando **Vanilla JavaScript** puro, sem dependênc
 
 ---
 
-## Conformidade Legal e Licenças de Terceiros
+## ⚖️ Conformidade Legal e Licenças de Terceiros
 
 ### W3C Software License
-
-    Copyright © 2024 World Wide Web Consortium, (Massachusetts Institute of Technology,
-    European Research Consortium for Informatics and Mathematics, Keio University, Beihang).
-    All Rights Reserved. This work is distributed under the W3C® Software License.
+```
+Copyright © 2025 World Wide Web Consortium, (Massachusetts Institute of Technology, 
+European Research Consortium for Informatics and Mathematics, Keio University, Beihang). 
+All Rights Reserved. This work is distributed under the W3C® Software License.
+```
 
 ### NASA Content Usage
 De acordo com as diretrizes da NASA:
@@ -294,43 +297,43 @@ De acordo com as diretrizes da NASA:
 
 ---
 
-## Licenciamento Comercial
+## 🏢 Licenciamento Comercial
 
 Para uso comercial, entre em contato com **Tutankhamal Dev** para:
-- Licenças comerciais personalizadas
-- Parcerias e colaborações
-- Consultoria e desenvolvimento customizado
-- Acordos de licenciamento empresarial
+- 💼 Licenças comerciais personalizadas
+- 🤝 Parcerias e colaborações
+- 📞 Consultoria e desenvolvimento customizado
+- 💰 Acordos de licenciamento empresarial
 
 **Contato para licenciamento comercial:**
-- Email: [tutankhamal.dev@exemplo.com](mailto:tutankhamal.dev@exemplo.com)
-- GitHub: [@TutankhamalDev](https://github.com/TutankhamalDev)
-- Website: [www.tutankhamaldev.com](http://www.tutankhamaldev.com)
+- Email: tutankhamal@outlook.com
+- GitHub: @Tutankhamal
+- Website: https://www.tutankhamal.com
 
 ---
 
-## Contato e Suporte
+## 📞 Contato e Suporte
 
 ### Tutankhamal Dev
-- **GitHub**: [@Tutankhamal](https://github.com/Tutankhamal)
-- **Email**: [tutankhamal@outlook.com](mailto:tutankhamal@outlook.com)
-- **Website**: [https://www.tutankhamal.com](https://www.tutankhamal.com)
-- **LinkedIn**: [linkedin.com/in/Tutankhamal](https://www.linkedin.com/in/Tutankhamal)
+- **GitHub**: @Tutankhamal
+- **Email**: tutankhamal@outlook.com
+- **Website**: https://www.tutankhamal.com
+- **LinkedIn**: linkedin.com/in/Tutankhamal
 
 ---
 
-## Informações da Licença
+## 📅 Informações da Licença
 
-- **Versão da Licença**: 1.2
-- **Data de Criação**: 2024
-- **Última Atualização**: 2024
+- **Versão da Licença**: 1.1
+- **Data de Criação**: 2025
+- **Última Atualização**: 2025
 - **Jurisdição**: Brasil
 - **Idioma Original**: Português
 
 ---
 
-**© 2024 Tutankhamal Dev. Todos os direitos reservados.**
+**© 2025 Tutankhamal Dev. Todos os direitos reservados.**
 
 *Esta licença é válida e executável conforme as leis de direitos autorais aplicáveis. Todas as referências científicas e tecnológicas são citadas conforme normas acadêmicas e de atribuição apropriadas.*
-
+```
 
