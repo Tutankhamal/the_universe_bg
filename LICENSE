@@ -2,7 +2,7 @@
 
 **Criado por: Tutankhamal Dev**
 
-Copyright (c) 2025 Tutankhamal Dev. Todos os direitos reservados.
+Copyright (c) 2024 Tutankhamal Dev. Todos os direitos reservados.
 
 ---
 
@@ -43,17 +43,15 @@ Copyright (c) 2025 Tutankhamal Dev. Todos os direitos reservados.
 
 Para uso não comercial, inclua a seguinte atribuição:
 
-```
-Dynamic Universe Canvas Background
-Criado por: Tutankhamal Dev
-Licença: Uso não comercial com atribuição
-Projeto original: [URL do repositório]
+    Dynamic Universe Canvas Background
+    Criado por: Tutankhamal Dev
+    Licença: Uso não comercial com atribuição
+    Projeto original: [URL do repositório]
 
-Baseado em conceitos científicos e tecnologias:
-- Canvas API (W3C Standard)
-- Física Astronômica (Leis de Kepler, Lei de Wien)
-- Algoritmos de Otimização de Performance Web
-```
+    Baseado em conceitos científicos e tecnologias:
+    - Canvas API (W3C Standard)
+    - Física Astronômica (Leis de Kepler, Lei de Wien)
+    - Algoritmos de Otimização de Performance Web
 
 ---
 
@@ -64,7 +62,7 @@ Baseado em conceitos científicos e tecnologias:
 #### **Lei de Wien (1893)**
 - **Referência**: Wien, W. (1893). "Über die Energieverteilung im Emissionsspektrum eines schwarzen Körpers"
 - **Aplicação**: Sistema de cores das estrelas baseado em temperatura
-- **Fórmula**: λmax = b/T (onde b = 2.897×10⁻³ m·K)
+- **Fórmula**: `λmax = b/T` (onde b = 2.897×10⁻³ m·K)
 - **Licença**: Domínio Público (>100 anos)
 
 #### **Leis de Kepler (1609-1619)**
@@ -76,7 +74,7 @@ Baseado em conceitos científicos e tecnologias:
 #### **Classificação Espectral de Harvard (1901)**
 - **Referência**: Cannon, A. J. & Pickering, E. C. (1901). "Spectra of Bright Stars"
 - **Aplicação**: Sistema de cores estelares (Classes O, B, A, F, G, K, M)
-- **Temperaturas**: 
+- **Temperaturas**:
   - Classe M: 2400-3700K (Vermelho)
   - Classe K: 3700-5200K (Laranja)
   - Classe G: 5200-6000K (Amarelo)
@@ -277,11 +275,10 @@ Este projeto foi desenvolvido usando **Vanilla JavaScript** puro, sem dependênc
 ## ⚖️ **Conformidade Legal e Licenças de Terceiros**
 
 ### **W3C Software License**
-```
-Copyright © 2024 World Wide Web Consortium, (Massachusetts Institute of Technology, 
-European Research Consortium for Informatics and Mathematics, Keio University, Beihang). 
-All Rights Reserved. This work is distributed under the W3C® Software License.
 
+    Copyright © 2024 World Wide Web Consortium, (Massachusetts Institute of Technology,
+    European Research Consortium for Informatics and Mathematics, Keio University, Beihang).
+    All Rights Reserved. This work is distributed under the W3C® Software License.
 
 ### **NASA Content Usage**
 De acordo com as diretrizes da NASA:
@@ -306,36 +303,34 @@ Para uso comercial, entre em contato com **Tutankhamal Dev** para:
 - 💰 Acordos de licenciamento empresarial
 
 **Contato para licenciamento comercial:**
-- Email: [tutankhamal@outlook.com]
-- GitHub: [@Tutankhamal]
-- Website: [https://www.tutankhamal.com]
+- Email: [tutankhamal.dev@exemplo.com](mailto:tutankhamal.dev@exemplo.com)
+- GitHub: [@TutankhamalDev](https://github.com/TutankhamalDev)
+- Website: [www.tutankhamaldev.com](http://www.tutankhamaldev.com)
 
 ---
 
 ## 📞 **Contato e Suporte**
 
 ### Tutankhamal Dev
-- **GitHub**: [@Tutankhamal]
-- **Email**: [tutankhamal@outlook.com]
-- **Website**: [https://www.tutankhamal.com]
-- **LinkedIn**: [linkedin.com/in/Tutankhamal]
+- **GitHub**: [@Tutankhamal](https://github.com/Tutankhamal)
+- **Email**: [tutankhamal@outlook.com](mailto:tutankhamal@outlook.com)
+- **Website**: [https://www.tutankhamal.com](https://www.tutankhamal.com)
+- **LinkedIn**: [linkedin.com/in/Tutankhamal](https://www.linkedin.com/in/Tutankhamal)
 
 ---
 
 ## 📅 **Informações da Licença**
 
 - **Versão da Licença**: 1.1
-- **Data de Criação**: 2025
-- **Última Atualização**: 2025
+- **Data de Criação**: 2024
+- **Última Atualização**: 2024
 - **Jurisdição**: Brasil
 - **Idioma Original**: Português
 
 ---
 
-**© 2025 Tutankhamal Dev. Todos os direitos reservados.**
+**© 2024 Tutankhamal Dev. Todos os direitos reservados.**
 
 *Esta licença é válida e executável conforme as leis de direitos autorais aplicáveis. Todas as referências científicas e tecnológicas são citadas conforme normas acadêmicas e de atribuição apropriadas.*
-```
-```
 
 
